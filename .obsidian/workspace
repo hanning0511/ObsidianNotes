@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "root.md",
-            "mode": "source",
+            "file": "index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#root",
+                "query": "tag:#deserialize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root.md"
+                "file": "index.md"
               }
             }
           },
@@ -130,14 +130,22 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 584.3333740234375
+    "width": 221
   },
-  "active": "bed533ec81eb2672",
+  "active": "dc03e4fa989eb6b8",
   "lastOpenFiles": [
-    "root.md"
+    "Disable SSH Host Key Checking.md",
+    "ssh.md",
+    "index.md",
+    "Rust.md",
+    "webssh.md",
+    "对任意json结构反序列化.md",
+    "序列化任意结构数据结构.md",
+    "tokei.md",
+    "grubby.md"
   ]
 }

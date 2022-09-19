@@ -1,5 +1,6 @@
-
 Tag: #root
+
+---
 
 ## 计算机基础
 
@@ -20,3 +21,7 @@ Tag: #root
 - [[git]]
 - [[Makefile]]
 - [[Docker]]
+- [[grubby]]
+- [[webssh]]
+- [[qemu]]
+- [[ssh]]
