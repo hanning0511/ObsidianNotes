@@ -1,4 +1,4 @@
-Tag: #index
+Tag: #Root
 
 ---
 
@@ -18,7 +18,7 @@ Tag: #index
 ## 工具
 
 - [[tokei]]
-- [[git]]
+- [[Git]]
 - [[Makefile]]
 - [[Docker]]
 - [[grubby]]

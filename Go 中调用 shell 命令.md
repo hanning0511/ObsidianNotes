@@ -1,5 +1,7 @@
 # Go 调用 shell 命令
 
+^5c9b7b
+
 Tags: #Golang #Shell
 
 
@@ -228,7 +230,7 @@ func main() {
 
 我们有两个输出要复制。为了避免将它们序列化，我们将在一个 [[goroutine]] 中读取一个。
 正如 `StdoutPipe` 的文档所说的，`Wait` 将在进程结束时关闭管道。如果我们还没有完成读取，这可能会导致丢失一些输出。
-为了防止这种情况，我们使用 `sync.WaitGroup` 来确保处理 `os.Stdout` 的 [[gorutine]] 在我们调用`cmd.Wait` 之前完成读取。
+为了防止这种情况，我们使用 `sync.WaitGroup` 来确保处理 `os.Stdout` 的 [[goroutine]] 在我们调用`cmd.Wait` 之前完成读取。
 
 ## 捕获输出并显示其过程 #2
 

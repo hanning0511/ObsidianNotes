@@ -17,6 +17,7 @@ Tag: #programming-language #Rust
 ## 在线文章
 
 - [ ] [🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)
+- [ ] [Writing Linux Kernel Module in Rust](https://www.linuxfoundation.org/webinars/writing-linux-kernel-modules-in-rust)
 
 ## 本地笔记
 

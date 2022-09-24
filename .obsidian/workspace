@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "bed533ec81eb2672",
+        "id": "0864069dd8020a5e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Go 中调用 shell 命令.md",
+            "file": "Qemu启动指定的内核镜像.md",
             "mode": "preview",
+            "backlinks": false,
             "source": false
           }
         }
@@ -57,12 +58,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go 中调用 shell 命令.md",
+                "file": "Qemu启动指定的内核镜像.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go 中调用 shell 命令.md",
+                "file": "Qemu启动指定的内核镜像.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,16 +119,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go 中调用 shell 命令.md"
+                "file": "Qemu启动指定的内核镜像.md"
               }
-            }
-          },
-          {
-            "id": "23173adbbb1632a9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -135,19 +128,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 181.5,
+    "collapsed": true
   },
-  "active": "bed533ec81eb2672",
+  "active": "0864069dd8020a5e",
   "lastOpenFiles": [
-    "index.md",
-    "sdm-vol-1.pdf",
-    "RWLinux.md",
-    "Golang.md",
-    "Go 中调用 shell 命令.md",
-    "Rust 对任意 JSON 结构反序列化.md",
+    "qemu.md",
     "Rust.md",
-    "rust-abstract-machine.png",
-    "Disable SSH Host Key Checking.md",
-    "ssh.md"
+    "Qemu启动指定的内核镜像.md",
+    "Go 中调用 shell 命令.md",
+    "Root.md",
+    "goroutine.md",
+    "gorutine.md",
+    "Golang.md",
+    "how-goroutine-works.png",
+    "grubby.md"
   ]
 }

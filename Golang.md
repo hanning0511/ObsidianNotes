@@ -7,3 +7,4 @@
 ## 本地笔记
 
 - [[Go 中调用 shell 命令]]
+- [[Go 中的 hashing]]
