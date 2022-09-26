@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Qemu启动指定的内核镜像.md",
+            "file": "Go 读取gz格式的文本文件.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Qemu启动指定的内核镜像.md",
+                "file": "Go 读取gz格式的文本文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Qemu启动指定的内核镜像.md",
+                "file": "Go 读取gz格式的文本文件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Qemu启动指定的内核镜像.md"
+                "file": "Go 读取gz格式的文本文件.md"
               }
             }
           }
@@ -128,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5,
-    "collapsed": true
+    "width": 291.5
   },
   "active": "0864069dd8020a5e",
   "lastOpenFiles": [
+    "Golang.md",
+    "Go 格式化字符串.md",
+    "Qemu启动指定的内核镜像.md",
     "qemu.md",
     "Rust.md",
-    "Qemu启动指定的内核镜像.md",
     "Go 中调用 shell 命令.md",
     "Root.md",
     "goroutine.md",
     "gorutine.md",
-    "Golang.md",
-    "how-goroutine-works.png",
-    "grubby.md"
+    "how-goroutine-works.png"
   ]
 }
