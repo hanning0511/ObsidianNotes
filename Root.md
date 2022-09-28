@@ -11,7 +11,7 @@ Tag: #Root
 
 - [[C]]
 - [[Rust]] 
-- [[Golang]]
+- [[Go]]
 - [[Python]]
 - [[Bash]]
 
