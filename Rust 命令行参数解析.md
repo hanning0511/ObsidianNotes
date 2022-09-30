@@ -29,7 +29,12 @@ use clap::Parser;
 
 /// Simple program to greet a person
 #[derive(Parser, Debug)]
-#[clap(author, version, about, long_about = None)]
+#[clap(
+	author("Han Ning"),
+	version("0.1"),
+	about("A Commandline utility"),
+	long_about = None,
+)]
 struct Args {
    /// Name of the person to greet
    #[clap(short, long, value_parser)]
