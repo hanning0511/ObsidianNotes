@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rust.md",
+            "file": "Git.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 231
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "Git.md"
               }
             }
           }
@@ -128,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 221
   },
   "active": "0864069dd8020a5e",
   "lastOpenFiles": [
+    "Rust.md",
+    "SSH ProxyJump.md",
+    "SSH.md",
     "Root.md",
     "Rust 模块系统.md",
-    "Rust.md",
     "Rust 命令行参数解析.md",
     "Rust extern 和 use.md",
     "grubby.md",
     "Bash 逐行读取命令输出.md",
-    "Bash.md",
-    "Go.md",
-    "Go 中调用 shell 命令.md"
+    "Bash.md"
   ]
 }

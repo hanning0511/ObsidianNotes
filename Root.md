@@ -23,8 +23,8 @@ Tag: #Root
 - [[Docker]]
 - [[grubby]]
 - [[webssh]]
-- [[qemu]]
-- [[ssh]]
+- [[Qemu]]
+- [[SSH]]
 
 ## 我的项目
 

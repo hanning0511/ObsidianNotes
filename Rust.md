@@ -24,6 +24,10 @@ Tag: #programming-language #Rust
 - [anyhow](https://crates.io/crates/anyhow)
 - [thiserror](https://crates.io/crates/thiserror)
 
+## Repositories
+
+- [bootloader](https://github.com/rust-osdev/bootloader)
+
 ## 本地笔记
 
 - [[Rust 对任意 JSON 结构反序列化]]
