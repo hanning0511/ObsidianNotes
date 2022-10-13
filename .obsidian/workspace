@@ -7,13 +7,8 @@
         "id": "0864069dd8020a5e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bash.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bash.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,23 +122,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 221
+    "width": 263.00006103515625,
+    "collapsed": true
   },
   "active": "0864069dd8020a5e",
   "lastOpenFiles": [
-    "Bash 格式化日期、时间打印.md",
+    "Python CSV 文件操作.md",
+    "Python.md",
+    "Root.md",
+    "Bash Parameter Expansion.md",
     "Bash.md",
+    "Bash 格式化日期、时间打印.md",
     "Bash FAQ.md",
     "Bash Style Guide.md",
     "grubby.md",
-    "Bash 从文件中逐行读取文本.md",
-    "Git.md",
-    "Rust.md",
-    "SSH ProxyJump.md",
-    "SSH.md"
+    "Bash 从文件中逐行读取文本.md"
   ]
 }

@@ -5,6 +5,7 @@ Tags: #Bash #script
 ## 在线资料
 - [Bash scripting cheatsheet](https://devhints.io/bash)
 - [Bash Hackers Wiki](https://wiki.bash-hackers.org/start)
+- [Bash Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
 
 ## 在线文章
 - [What is the purpose of the : (colon) GNU Bash builtin?](https://stackoverflow.com/questions/3224878/what-is-the-purpose-of-the-colon-gnu-bash-builtin)
@@ -14,3 +15,4 @@ Tags: #Bash #script
 - [[Bash 逐行读取命令输出]]
 - [[Bash Style Guide]]
 - [[Bash 格式化日期、时间打印]]
+- [[Bash Parameter Expansion]]
