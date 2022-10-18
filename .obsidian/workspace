@@ -7,8 +7,13 @@
         "id": "0864069dd8020a5e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pyhon 列表排序.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pyhon 列表排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pyhon 列表排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pyhon 列表排序.md"
+              }
             }
           },
           {
@@ -126,14 +135,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.00006103515625,
-    "collapsed": true
+    "width": 263.00006103515625
   },
   "active": "0864069dd8020a5e",
   "lastOpenFiles": [
-    "Python CSV 文件操作.md",
     "Python.md",
     "Root.md",
+    "Python CSV 文件操作.md",
     "Bash Parameter Expansion.md",
     "Bash.md",
     "Bash 格式化日期、时间打印.md",
