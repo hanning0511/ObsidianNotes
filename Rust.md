@@ -27,6 +27,7 @@ Tag: #programming-language #Rust
 ## Repositories
 
 - [bootloader](https://github.com/rust-osdev/bootloader)
+- [egui](https://github.com/emilk/egui)
 
 ## 本地笔记
 
