@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rust.md",
+                "file": "Python.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust.md"
+                "file": "Python.md"
               }
             }
           },
@@ -152,15 +153,15 @@
   },
   "active": "c5f2275416d996da",
   "lastOpenFiles": [
+    "Bash getoptts.md",
     "Bash.md",
-    "Python bytes 转换成 string.md",
-    "Python.md",
-    "Python CSV 文件操作.md",
-    "Pyhon 列表排序.md",
+    "Bash pipefail.md",
+    "Bash 特殊变量.md",
+    "Bash 从文件中逐行读取文本.md",
+    "Bash 逐行读取命令输出.md",
     "Bash find 命令.md",
-    "开源协议.md",
-    "Root.md",
-    "grubby.md",
-    "Bash Parameter Expansion.md"
+    "Rust.md",
+    "Python bytes 转换成 string.md",
+    "Python.md"
   ]
 }
