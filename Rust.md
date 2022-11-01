@@ -35,3 +35,14 @@ Tag: #programming-language #Rust
 - [[Rust 模块系统]]
 - [[Rust extern 和 use]]
 - [[Rust 命令行参数解析]]
+
+## Rust Cookbook
+
+### 算法
+
+ - [[Rust 生成随机数]]
+ - [[Rust 生成落在特定区间的随机数]]
+ - [[Rust 使用给定的分布生成随机数]]
+ - [[Rust 生成自定义类型的随机值]]
+ - [[Rust 从一串字母和数字集合中创建随机密码]]
+ - [[Rust 从一组用户定义的字符集合中创建随机密码]]
