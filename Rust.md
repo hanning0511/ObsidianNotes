@@ -35,6 +35,7 @@ Tag: #programming-language #Rust
 - [[Rust 模块系统]]
 - [[Rust extern 和 use]]
 - [[Rust 命令行参数解析]]
+- [[Rust 找到 Vector 中某个元素的 index]]
 
 ## Rust Cookbook
 

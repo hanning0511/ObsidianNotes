@@ -1,5 +1,8 @@
 {
   "cssTheme": "Obsidian Nord",
-  "theme": "moonstone",
-  "accentColor": ""
+  "theme": "obsidian",
+  "accentColor": "",
+  "textFontFamily": "SF Pro Text",
+  "nativeMenus": false,
+  "interfaceFontFamily": "SF Pro"
 }

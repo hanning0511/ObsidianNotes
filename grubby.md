@@ -19,3 +19,9 @@ $ grubby --update-kernel=/boot/vmlinuz-`uname -r` --args="console=ttyS0"
 # 删除启动参数
 $ grubby --update-kernel=/boot/vmlinuz-`name -r` --remove-args="console=ttyS0"
 ```
+
+## 修复grubenv 文件
+
+```shell
+$ grub2-editenv create
+```

@@ -17,6 +17,7 @@ Tag: #Root
 
 ## 工具
 
+- [[Vim]]
 - [[tokei]]
 - [[Git]]
 - [[Makefile]]

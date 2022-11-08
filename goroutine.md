@@ -4,7 +4,7 @@ Tags: #Golang #Goroutines
 
 # Goroutines
 
-## 什么是 gotoutine
+## 什么是 goroutine
 
 Goroutines 是与其他函数或方法同时运行的函数或方法。Goroutines 可以被认为是轻量级的线程。与线程相比，创建一个 Goroutine 的成本很小。因此，在 Go 应用程序中，通常会有成千上万的 Goroutine 同时运行。
 
