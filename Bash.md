@@ -3,10 +3,10 @@ Tags: #Bash #script
 # Bash
 
 ## 在线资料
-- [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Bash scripting cheat sheet](https://devhints.io/bash)
 - [Bash Hackers Wiki](https://wiki.bash-hackers.org/start)
 - [Bash Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
-- [BashFAQ](https://mywiki.wooledge.org/BashFAQ)
+- [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
 
 ## 在线文章
 - [What is the purpose of the : (colon) GNU Bash builtin?](https://stackoverflow.com/questions/3224878/what-is-the-purpose-of-the-colon-gnu-bash-builtin)
