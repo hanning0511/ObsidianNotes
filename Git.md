@@ -21,3 +21,16 @@ $ git filter-branch --force --index-filter \
   'git rm --cached --ignore-unmatch <path/to/file>' \
   --prune-empty --tag-name-filter cat -- --all
 ```
+
+### 从 Github 上拉取 Pull Request 到本地
+
+```shell
+$ git pull origin pull/<ID>/head:<BRANCH_NAME>
+$ git checkout <BRANCH_NAME>
+```
+
+### 移动子模块路径
+
+```sh
+$ git mv <original path> <new path>
+```

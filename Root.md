@@ -27,6 +27,14 @@ Tag: #Root
 - [[Qemu]]
 - [[SSH]]
 - [[开源协议]]
+- [vsh](https://github.com/charmbracelet/vhs)
+- [ttyd](https://github.com/tsl0922/ttyd)
+
+- [[ Misc ]]
+
+## WEB
+
+- [[React]]
 
 ## 我的项目
 

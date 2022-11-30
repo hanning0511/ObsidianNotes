@@ -16,7 +16,7 @@ Tag: #programming-language #Rust
 
 ## 在线文章
 
--  [🦀 How to minimize Rust binary size 📦](https://github.com/johnthagen/min-sized-rust)
+-  [How to minimize Rust binary size ](https://github.com/johnthagen/min-sized-rust)
 -  [Writing Linux Kernel Module in Rust](https://www.linuxfoundation.org/webinars/writing-linux-kernel-modules-in-rust)
 
 ## crates
@@ -39,7 +39,7 @@ Tag: #programming-language #Rust
 
 ## Rust Cookbook
 
-### 算法
+### 1. 算法
 
  - [[Rust 生成随机数]]
  - [[Rust 生成落在特定区间的随机数]]
@@ -47,3 +47,12 @@ Tag: #programming-language #Rust
  - [[Rust 生成自定义类型的随机值]]
  - [[Rust 从一串字母和数字集合中创建随机密码]]
  - [[Rust 从一组用户定义的字符集合中创建随机密码]]
+
+### 16. 操作系统
+
+- [[Rust 执行外部命令并处理命令的输出]]
+- [[Rust 执行外部命令并通过标准输入传递参数和检查返回值]]
+- [[Rust 执行管道连接的外部命令]]
+- [[Rust 重定向子进程的 stdout 和 stderr 到同一个文件]]
+- [[Rust 持续读取并处理子进程的输出]]
+- [[Rust 获取环境变量]]

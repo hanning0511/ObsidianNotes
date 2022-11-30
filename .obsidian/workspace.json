@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7740e0a1cf987c47",
+        "id": "93ddd3f9b182f406",
         "type": "tabs",
         "children": [
           {
-            "id": "0df9d149787e2c47",
+            "id": "e99ef451f501d459",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "work/SPR Regression Test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 304.5
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "work/SPR Regression Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "work/SPR Regression Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "work/SPR Regression Test.md"
               }
             }
           },
@@ -140,24 +140,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 343.5,
     "collapsed": true
   },
-  "active": "0df9d149787e2c47",
+  "active": "e99ef451f501d459",
   "lastOpenFiles": [
-    "work/WSR.md",
-    "Bash find 命令.md",
-    "Bash.md",
-    "work/SPR Regression Test.md",
-    "work/LKVS - Linux Kernel Validation Suite.md",
-    "Bash pipefail.md",
-    "work/jz.md",
-    "grubby.md",
-    "Python.md",
-    "Python 列表排序.md"
+    "Rust 执行外部命令并通过标准输入传递参数和检查返回值.md",
+    "Rust 执行外部命令并处理命令的输出.md",
+    "Rust 获取环境变量.md",
+    "Rust.md",
+    "Rust 持续读取并处理子进程的输出.md",
+    "Rust 重定向子进程的 stdout 和 stderr 到同一个文件.md",
+    "Rust 执行管道连接的外部命令.md",
+    "Rust 从一串字母和数字集合中创建随机密码.md",
+    "Rust 执行外部命令.md",
+    "Rust 执行 shell 命令.md"
   ]
 }
