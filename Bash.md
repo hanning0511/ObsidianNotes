@@ -9,10 +9,10 @@ Tags: #Bash #script
 - [Bash FAQ](https://mywiki.wooledge.org/BashFAQ)
 
 ## 在线文章
-- [What is the purpose of the : (colon) GNU Bash builtin?](https://stackoverflow.com/questions/3224878/what-is-the-purpose-of-the-colon-gnu-bash-builtin)
 - [Using Local OPTIND With Bash getopts](https://eklitzke.org/using-local-optind-with-bash-getopts)
 
 ## 本地笔记
+- [[Bash What is the purpose of the colon GUN Bash builtin]]
 - [[Bash 从文件中逐行读取文本]]
 - [[Bash 逐行读取命令输出]]
 - [[Bash Style Guide]]

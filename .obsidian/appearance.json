@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Atom",
-  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
   "accentColor": "",
   "textFontFamily": "SF Pro Text",
   "nativeMenus": false,

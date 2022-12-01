@@ -25,7 +25,7 @@ $ git filter-branch --force --index-filter \
 ### 从 Github 上拉取 Pull Request 到本地
 
 ```shell
-$ git pull origin pull/<ID>/head:<BRANCH_NAME>
+$ git fetch origin pull/<ID>/head:<BRANCH_NAME>
 $ git checkout <BRANCH_NAME>
 ```
 
