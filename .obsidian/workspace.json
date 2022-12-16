@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fa5b22d0ab31c79",
+        "id": "e1bdee62f764d354",
         "type": "tabs",
         "children": [
           {
-            "id": "c79447724754eb2e",
+            "id": "2e0f9640d69cd8a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram-edit",
               "state": {
-                "file": "work/SPR Regression Test.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "work/LFE/database-digrame.svg"
               }
             }
           }
@@ -34,16 +31,6 @@
         "id": "bb8ab20bd1edf0f9",
         "type": "tabs",
         "children": [
-          {
-            "id": "dc03e4fa989eb6b8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "bba949a501a74e34",
             "type": "leaf",
@@ -71,20 +58,26 @@
             "id": "e99ef451f501d459",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf07eb746c798c87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 405.49999618530273
   },
   "right": {
     "id": "c528be75d155a79d",
@@ -100,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work/SPR Regression Test.md",
+                "file": "work/LFE/database-digrame.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work/SPR Regression Test.md",
+                "file": "work/LFE/database-digrame.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work/SPR Regression Test.md"
+                "file": "work/LFE/database-digrame.svg"
               }
             }
           },
@@ -153,24 +146,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 343.5,
     "collapsed": true
   },
-  "active": "c79447724754eb2e",
+  "active": "2e0f9640d69cd8a2",
   "lastOpenFiles": [
-    "Bash.md",
-    "work/Todo List.md",
-    "Bash What is the purpose of the colon GUN Bash builtin.md",
-    "Bash getoptts.md",
-    "work/SPR Regression Test.md",
-    "work/Links.md",
-    "Git.md",
-    "work/Intel Common.md",
-    "Rust 执行外部命令并通过标准输入传递参数和检查返回值.md",
-    "Rust 执行外部命令并处理命令的输出.md"
+    "work/LFE/SPR Regression Test.md",
+    "编程语言/Python/Python bytes 转换成 string.md",
+    "编程语言/Python/Python.md",
+    "React.md",
+    "Linux/eBPF/eBPF.md",
+    "Linux/Qemu/Qemu启动指定的内核镜像.md",
+    "Linux/Qemu/Qemu.md",
+    "Misc/开源协议.md",
+    "操作系统.md",
+    "RWLinux.md"
   ]
 }

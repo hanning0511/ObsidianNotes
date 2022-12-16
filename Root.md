@@ -19,9 +19,10 @@ Tag: #Root
 
 - [[Vim]]
 - [[tokei]]
-- [[Git]]
+- [[git 命令]]
 - [[Makefile]]
-- [[Docker]]
+- [[installation]]
+- [[Kubernetes]]
 - [[grubby]]
 - [[webssh]]
 - [[Qemu]]

@@ -1,8 +1,10 @@
 {
-  "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "SF Pro Text",
-  "nativeMenus": false,
-  "interfaceFontFamily": "SF Pro"
+  "nativeMenus": true,
+  "interfaceFontFamily": "SF Pro",
+  "translucency": false,
+  "monospaceFontFamily": "JetBrainsMonoNL NFM"
 }
